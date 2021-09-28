@@ -1,0 +1,29 @@
+{Tags TB_Tags}
+CEO;
+ADM;
+MOD;
+Ajudante;
+Youtuber;
+MiniYT;
+MVP;
+VIP+;
+VIP;
+Membro
+=========================================================================================================
+{Permissões TB_Tags}
+tag.ceo;
+tag.adm;
+tag.mod;
+tag.ajudante;
+tag.youtuber;
+tag.miniyt;
+tag.mvp;
+tag.vip+;
+tag.vip;
+tag.membro
+=========================================================================================================
+TESTADO APENAS EM PERMISSIONS EX!
+=========================================================================================================
+PLUGIN EM FASE DE TESTES! SE PRECISAR DE SUPORTE, ENTRE EM CONTATO COM TB_DEV#9414 VIA DISCORD
+=========================================================================================================
+Att: TB_DEV
